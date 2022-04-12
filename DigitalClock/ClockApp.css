@@ -1,0 +1,30 @@
+#digitalClock {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: #ecb717;
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #4a166c;
+}
+
+#date {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #4a166c;
+    text-align: center;
+    width: 25%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #ecb717;
+}
+
+.div{
+    text-align: center;
+}
+body {
+    background-color: #212425
+}
